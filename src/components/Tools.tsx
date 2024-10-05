@@ -1,4 +1,4 @@
-import { ChangeEvent, useRef, useState } from 'react';
+import { ChangeEvent, useRef } from 'react';
 import { ArButton } from './ArButton';
 import { Icon } from '@iconify/react/dist/iconify.js';
 
