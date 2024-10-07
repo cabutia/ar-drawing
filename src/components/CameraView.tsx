@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { useRef, useState } from 'react';
 import { ArButton } from './ArButton';
 
 export const CameraView: React.FC = () => {
